@@ -1,5 +1,6 @@
 // accuweather project accuweather.go
 //auther:Yaxiang He
+//time:2013年11月27日16:08:24
 package accuweather
 
 import (
